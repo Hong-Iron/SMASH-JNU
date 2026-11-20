@@ -1,0 +1,34 @@
+{
+ "region": "광주 북구 용봉동",
+ "nameEn": "Chonnam National University",
+ "added": "2026-10-17",
+ "rank": 3,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DONGKANG",
+   "campus": "동강대학교",
+   "km": 2.0
+  },
+  {
+   "code": "GNUE",
+   "campus": "광주교육대학교",
+   "km": 2.4
+  },
+  {
+   "code": "SEOYOUNG",
+   "campus": "서영대학교 광주캠퍼스",
+   "km": 3.2
+  },
+  {
+   "code": "JNU-HAKDONG",
+   "campus": "전남대학교 학동캠퍼스",
+   "km": 4.2
+  },
+  {
+   "code": "CCN",
+   "campus": "기독간호대학교",
+   "km": 4.4
+  }
+ ]
+}
